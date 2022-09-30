@@ -43,12 +43,26 @@ h2 {
     margin-left: 20px;
 }
 .areaesquerda {
-    border: 1px red solid;
+    background: #FFF;
+    color: rgb(39, 38, 38);
     float: right;
-    width: 300px;
+    width: 250px;
     position: relative;
     right: 400px;
-    margin-top: 20px;
-
-
+    margin: 10px 10px;
+}
+.destaque {
+    background-color: rgb(216, 210, 210);
+    color: rgb(90, 89, 89);  
+    display: inline;
+}
+.a2 {
+    color: #F2C12E;
+}
+.rodape {
+    border: 1px red solid;
+    position: absolute;
+    bottom: 0px;
+    background: rgb(90, 89, 89) ;
+    text-align: center;
 }
