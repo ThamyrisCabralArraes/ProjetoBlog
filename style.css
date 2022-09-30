@@ -1,11 +1,13 @@
+body {
+    background:rgb(245, 242, 242) ;
+}
 #cabecalho {
     background: #F2C12E;
     height: 150px;
     text-align: center;
     font-weight: 550;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-
 span {
     color: #FFF;
 }
@@ -25,9 +27,23 @@ h2 {
 }
 .texto {
     font-size: 900;
+    color: rgb(99, 98, 98);
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-bottom: 10px;
 }
 .postagem {
-    border: 1px red solid;
     width: 900px;
-    height: 100;
+    margin: 10px 200px;
+    background: #FFF;
+    float: left;
+
+}
+.imagem {
+    margin-left: 20px;
+}
+.recentes {
+    border: 1px red solid;
+    float: right;
+
 }
