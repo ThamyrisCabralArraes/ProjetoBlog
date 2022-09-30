@@ -1,0 +1,33 @@
+#cabecalho {
+    background: #F2C12E;
+    height: 150px;
+    text-align: center;
+    font-weight: 550;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+span {
+    color: #FFF;
+}
+a:link, a:visited {
+    text-decoration-line: none;
+    color: #FFF;
+    margin: 10px;
+    padding: 5px 10px;
+}
+a:hover {
+    background-color: #FFF ;
+    color: #F2C12E;
+}
+h2 {
+    color: #F2C12E;
+    font-size: 900;
+}
+.texto {
+    font-size: 900;
+}
+.postagem {
+    border: 1px red solid;
+    width: 900px;
+    height: 100;
+}
