@@ -32,7 +32,7 @@ h2 {
     margin-right: 5px;
     margin-bottom: 10px;
 }
-.postagem {
+.areadireita {
     width: 900px;
     margin: 10px 200px;
     background: #FFF;
@@ -42,8 +42,13 @@ h2 {
 .imagem {
     margin-left: 20px;
 }
-.recentes {
+.areaesquerda {
     border: 1px red solid;
     float: right;
+    width: 300px;
+    position: relative;
+    right: 400px;
+    margin-top: 20px;
+
 
 }
