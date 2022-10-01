@@ -61,8 +61,11 @@ h2 {
 }
 .rodape {
     border: 1px red solid;
-    position: absolute;
+    position: relative;
     bottom: 0px;
-    background: rgb(90, 89, 89) ;
+    background: rgb(195, 192, 192) ;
     text-align: center;
+    clear: both;
+    width: 900;
+    margin: 10px 200px;
 }
